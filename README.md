@@ -17,4 +17,4 @@ This project utilizes four CSV files to manage and analyze pizza orders efficien
 The pizza_types table provides detailed information about different pizza varieties, containing four columns: pizza_type_id, which uniquely identifies each pizza type, name, which specifies the name of the pizza, category, which classifies pizzas into groups such as classic, vegetarian, or chicken-based, and ingredients, which lists the components used in each pizza. The pizzas table further complements this by storing pizza_id, which links to the orders table, pizza_type_id, which connects to the pizza_types table, size, which indicates available pizza sizes (e.g., small, medium, large, extra-large), and price, which represents the cost of each pizza. Together, these tables form a comprehensive dataset that supports order processing, pricing analysis, and customer preference tracking.
 
 ## Result
-The answers to the questions asked are shown here
+The answers to the questions asked are shown <a href="https://github.com/HemangTaori/PizzaHut-Sales-SQL/blob/main/Pizza_Sales.pdf">here.</a>
