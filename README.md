@@ -3,9 +3,9 @@ I have developed this project to analyze pizza sales for a store, providing insi
 
 ## Files Used:
 <li><a href="https://github.com/HemangTaori/PizzaHut-Sales-SQL/blob/main/order_details.csv">order_details</a></li>
-- <a href="https://github.com/HemangTaori/PizzaHut-Sales-SQL/blob/main/orders.csv">orders</a>
-- <a href="https://github.com/HemangTaori/PizzaHut-Sales-SQL/blob/main/pizza_types.csv">pizza_types</a>
-- <a href="https://github.com/HemangTaori/PizzaHut-Sales-SQL/blob/main/pizzas.csv">pizzas</a>
+<li><a href="https://github.com/HemangTaori/PizzaHut-Sales-SQL/blob/main/orders.csv">orders</a></li>
+<li><a href="https://github.com/HemangTaori/PizzaHut-Sales-SQL/blob/main/pizza_types.csv">pizza_types</a></li>
+<li><a href="https://github.com/HemangTaori/PizzaHut-Sales-SQL/blob/main/pizzas.csv">pizzas</a></li>
 
 ## Technology Used
 <li> MySQL</li>
